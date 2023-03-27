@@ -19,7 +19,7 @@ To run the game, clone this repository and run 'exHanoiGUI.py'.
 ``` 
 git clone https://github.com/MortezaPr/ExHanoi.git
 cd ExHanoi
-python exHanoiGUI.py
+python exHanoi_GUI
 ```
 
 ## Usage
