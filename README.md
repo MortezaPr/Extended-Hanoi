@@ -30,7 +30,7 @@ After setting the parameters, click the "Start" button to begin the puzzle. The 
 ## Controls
 
 In manual mode, you can move through the steps using the "Next" button. You can pause and resume the game using the respective buttons.
-In both modes, you can reset the game using the "Reset" button, and you can end the game with the "Final" button.
+In both modes, you can reset the game using the "Reset" button, and you can see the end of the puzzle with the "Final" button.
 
 ## Built With
 
