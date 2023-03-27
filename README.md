@@ -17,7 +17,7 @@ The objective is to move all the disks to one rod, obeying the same rules as the
 To run the game, clone this repository and run 'exHanoiGUI.py'.
 
 ``` 
-git clone https://github.com/<username>/extended-hanoi-game.git
+git clone https://github.com/MortezaPr/ExHanoi.git
 cd extended-hanoi-game
 python exHanoiGUI.py
 ```
